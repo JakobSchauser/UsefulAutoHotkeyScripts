@@ -1,0 +1,3 @@
+﻿PrintScreen::
+    SendInput, {AppsKey}
+    return
